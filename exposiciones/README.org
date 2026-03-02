@@ -6,11 +6,6 @@
   la última sección de este archivo (/Criterios de evaluación grupal/
   y /por el docente/).
 
-  Los temas sugeridos para exposición están disponibles [[http://gwolf.sistop.org/][en la página Web
-  del curso]]. Les reitero, sin embargo, que resulta más enriquecedor (y
-  como lo refleja la rúbrica, obtiene una calificación un poco más alta)
-  el que ustedes me planteen los temas de su interés.
-
   |-------------+------------------------------------------------------+--------------------------------------------------------------------------+---------+--------------+------------------------------|
   | *Fecha*     | *Integrantes*                                        | *Integrantes*                                                            | *Video* | *Documentos* | *Evaluación*                 |
   |-------------+------------------------------------------------------+--------------------------------------------------------------------------+---------+--------------+------------------------------|
